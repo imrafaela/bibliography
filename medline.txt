@@ -1,0 +1,980 @@
+PMID- 41023212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250930
+LR  - 20251003
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2025 Sep 29
+TI  - Cognitive efficiency in VR simulated natural indoor environments examined
+      through EEG and affective responses.
+PG  - 33398
+LID - 10.1038/s41598-025-18629-z [doi]
+AB  - This study investigated the neurophysiological and affective responses
+      elicited by nature-inspired indoor design elements, including curvilinear
+      forms (CL), nature views (N), and wooden interiors (W), in a virtual
+      environment, and their effects on cognitive performance. Thirty-six
+      participants experienced one control and three experimental conditions in
+      a within-subject design. Electroencephalography (EEG) was used to record
+      neural activity, relaxation and valence ratings assessed affective
+      states, and standardized tasks measured cognitive performance. The W
+      condition elicited EEG patterns indicative of relaxed attentional
+      engagement, including increased alpha-to-theta (ATR) and alpha-to-beta
+      (ABR) ratios, and a decreased theta-to-beta (TBR) ratio. These neural
+      patterns were associated with higher self-reported relaxation and
+      positive affect, and with enhanced cognitive performance relative to the
+      control condition. In contrast, the CL and N conditions did not improve
+      cognitive performance, and the N condition showed elevated physiological
+      arousal, likely due to heightened visual stimulation. Regression analysis
+      identified ATR and relaxation as significant predictors of cognitive
+      performance, emphasizing the role of emotional stability and neural
+      balance in supporting task engagement. Overall, the findings highlight
+      the potential of nature-inspired design to foster a synergy between
+      psychological relaxation and cognitive attention, though further research
+      is needed across diverse spatial typologies to isolate specific design
+      parameters.
+CI  - (c) 2025. The Author(s).
+FAU - Kim, Sieun
+AU  - Kim S
+AD  - Department of Interior Architecture and Built Environment, Yonsei
+      University, 50, Yonsei-ro, Seodaemun-gu, Seoul, 03722, Republic of Korea.
+      siekim@yonsei.ac.kr.
+LA  - eng
+GR  - RS-2023-00239734/National Research Foundation of Korea
+PT  - Journal Article
+DEP - 20250929
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Humans
+MH  - *Electroencephalography
+MH  - Male
+MH  - *Cognition/physiology
+MH  - Female
+MH  - Adult
+MH  - Young Adult
+MH  - *Affect/physiology
+MH  - *Virtual Reality
+MH  - Attention/physiology
+PMC - PMC12480704
+OTO - NOTNLM
+OT  - Cognitive efficiency
+OT  - EEG (electroencephalography)
+OT  - Natural indoor environment
+OT  - Relaxation
+OT  - Virtual reality
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/30 05:16
+MHDA- 2025/09/30 06:38
+CRDT- 2025/09/29 23:48
+PHST- 2025/01/21 00:00 [received]
+PHST- 2025/09/02 00:00 [accepted]
+AID - 10.1038/s41598-025-18629-z [doi]
+AID - 10.1038/s41598-025-18629-z [pii]
+PST - epublish
+SO  - Sci Rep. 2025 Sep 29;15(1):33398. doi: 10.1038/s41598-025-18629-z.
+
+PMID- 40703729
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250728
+IS  - 1664-1078 (Print)
+IS  - 1664-1078 (Linking)
+VI  - 16
+DP  - 2025
+TI  - Restorative effects and perception of nature-themed artworks in indoor
+      environments: an empirical study based on VR+EEG.
+PG  - 1571176
+LID - 10.3389/fpsyg.2025.1571176 [doi]
+AB  - Background: While numerous studies have examined the restorative effects
+      of natural elements in indoor environments, limited attention has been
+      given to the role of natural analogues. This study investigates the
+      restorative effects of nature-themed artwork, a common natural analogue
+      in biophilic design. Materials and methods: Virtual reality (VR) was
+      employed to simulate five work environments: rooms featuring nature-
+      themed artwork, a blank foreground, an architectural window view, a
+      natural window view, and a green plant wall, respectively. Measuring
+      content included electroencephalography (EEG), blood pressure, heart
+      rate, and restorative evaluations to compare the effects of these
+      environments on physiological and psychological responses across
+      conditions. Results: Nature-themed artwork significantly reduced systolic
+      blood pressure (p <0.05), increased alpha wave activity [frontal,
+      central, and occipital regions (p <0.05), and elicited higher restorative
+      evaluation scores compared to the blank foreground and architectural
+      window view]. Positive correlations were found between alpha power
+      spectral density (PSD) values and restorative evaluation scores (p
+      <0.05). Additionally, no significant differences were found between the
+      data induced by nature-themed artworks, the natural window view, and the
+      green plant wall. Discussion: The results demonstrate that nature-themed
+      artwork exerts restorative effects comparable to direct natural elements
+      (natural window views and green plant walls), surpassing both blank walls
+      and architectural views. This underscores its potential as an effective
+      natural analogue. This study provides reference information for designers
+      involved in interior natural decoration, considering physiological,
+      neural, and psychological aspects.
+CI  - Copyright (c) 2025 Chen, Zhu, Cheng, Yin, Yi, Shen, Zhang and Wu.
+FAU - Chen, Jiayin
+AU  - Chen J
+AD  - School of Art and Design, Zhejiang Sci-Tech University, Hangzhou, China.
+FAU - Zhu, Huiqiu
+AU  - Zhu H
+AD  - School of Ceramic Art, Jiangxi Arts and Ceramics Technology Institute,
+      Jingdezhen, China.
+FAU - Cheng, Yue
+AU  - Cheng Y
+AD  - College of Architecture and Urban Planning, Tongji University, Shanghai,
+      China.
+FAU - Yin, Henan
+AU  - Yin H
+AD  - School of Ceramic Art, Jiangxi Arts and Ceramics Technology Institute,
+      Jingdezhen, China.
+FAU - Yi, Minzhe
+AU  - Yi M
+AD  - School of Art and Design, Zhejiang Sci-Tech University, Hangzhou, China.
+FAU - Shen, Danni
+AU  - Shen D
+AD  - School of Art and Design, Zhejiang Sci-Tech University, Hangzhou, China.
+FAU - Zhang, Zuyao
+AU  - Zhang Z
+AD  - School of Art and Design, Zhejiang Sci-Tech University, Hangzhou, China.
+FAU - Wu, Jue
+AU  - Wu J
+AD  - School of Art and Design, Zhejiang Sci-Tech University, Hangzhou, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250709
+PL  - Switzerland
+TA  - Front Psychol
+JT  - Frontiers in psychology
+JID - 101550902
+PMC - PMC12283990
+OTO - NOTNLM
+OT  - EEG
+OT  - VR
+OT  - indoor environment
+OT  - natural analogues
+OT  - nature-themed artwork
+OT  - restorative effects
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a
+      potential conflict of interest. The reviewer GH declared a past co-
+      authorship with the author JC to the handling editor.
+EDAT- 2025/07/24 06:31
+MHDA- 2025/07/24 06:32
+CRDT- 2025/07/24 05:10
+PHST- 2025/02/13 00:00 [received]
+PHST- 2025/07/01 00:00 [accepted]
+AID - 10.3389/fpsyg.2025.1571176 [doi]
+PST - epublish
+SO  - Front Psychol. 2025 Jul 9;16:1571176. doi: 10.3389/fpsyg.2025.1571176.
+      eCollection 2025.
+
+PMID- 39686375
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241217
+LR  - 20250104
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 23
+DP  - 2024 Dec 8
+TI  - Brain and Subjective Responses to Indoor Environments Related to
+      Concentration and Creativity.
+LID - 7838 [pii]
+LID - 10.3390/s24237838 [doi]
+AB  - Electroencephalograms (EEGs) can be used to study the influence of
+      environmental elements on human emotions, cognition, and behavior. EEGs
+      can reveal unconscious responses and fill in the gaps left by subjective
+      responses provided in survey questionnaires or interviews. EEG research
+      on the impact of classroom design elements on concentration and
+      creativity is scarce; the design elements studied have not been diverse
+      enough. In addition, no researchers have examined the brain and
+      subjective responses to multiple indoor environmental elements regarding
+      concentration and creativity. Thus, the purpose of this study was to
+      explore how the human brain responds to different indoor environmental
+      elements as shown by objective EEG signals related to concentration and
+      creativity, and their similarities and differences to subjective self-
+      reported responses. The experimental stimuli included 16 images combining
+      four indoor environmental elements-classroom space shape, furniture
+      arrangement, ceiling height, and color-along with images of white walls,
+      a full-window wall with a view of nature, and a windowless scenario,
+      totaling 19 images. The brainwaves of 20 people collected from eight
+      channels were analyzed to determine the concentration index (CI) for
+      concentration and relative theta (RT) for creativity. As a subjective
+      response, participants were asked to choose the stimuli in which they
+      felt they could best concentrate and be most creative in a self-report
+      format. The results showed the following tendencies: (a) More brainwaves
+      in the parietal and occipital lobes than in the prefrontal or frontal
+      lobes; (b) a higher CI with rectilinear shapes, traditional frontal
+      furniture arrangements, and red walls; (c) a higher RT with curvilinear
+      shapes, collaborative furniture arrangements, white walls, and a full
+      view of nature; and (d) participants selected white walls and a front-
+      facing furniture layout as supportive of concentration and a full view of
+      nature, curvilinear shape, and collaborative furniture layout for
+      creative thinking. The results showed that similarities in brain and
+      subjective responses were related to furniture layout and shape, whereas
+      differences existed in color. This study contributes to the understanding
+      of the characteristics of indoor environments that appear to enhance the
+      manifestation of concentration and creativity.
+FAU - Wang, Ze-Yu
+AU  - Wang ZY
+AD  - Department of Housing & Interior Design (AgeTech-Service Convergence
+      Major), Kyung Hee University, Seoul 02447, Republic of Korea.
+FAU - Cho, Ji Young
+AU  - Cho JY
+AUID- ORCID: 0000-0003-2494-9133
+AD  - Department of Housing & Interior Design (AgeTech-Service Convergence
+      Major), Kyung Hee University, Seoul 02447, Republic of Korea.
+FAU - Hong, Yi-Kyung
+AU  - Hong YK
+AUID- ORCID: 0000-0002-9631-5888
+AD  - Department of Housing & Interior Design (AgeTech-Service Convergence
+      Major), Kyung Hee University, Seoul 02447, Republic of Korea.
+LA  - eng
+GR  - 2020R1A2C1009689/National Research Foundation of Korea
+GR  - 5120200313836/National Research Foundation of Korea
+PT  - Journal Article
+DEP - 20241208
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Humans
+MH  - *Creativity
+MH  - *Electroencephalography
+MH  - Male
+MH  - Female
+MH  - *Brain/physiology
+MH  - Adult
+MH  - Young Adult
+MH  - Environment
+PMC - PMC11645023
+OTO - NOTNLM
+OT  - brain response
+OT  - concentration index
+OT  - indoor environment
+OT  - relative theta
+OT  - subjective response
+EDAT- 2024/12/17 11:48
+MHDA- 2024/12/17 11:49
+CRDT- 2024/12/17 01:24
+PHST- 2024/07/30 00:00 [received]
+PHST- 2024/11/18 00:00 [revised]
+PHST- 2024/12/04 00:00 [accepted]
+AID - s24237838 [pii]
+AID - 10.3390/s24237838 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Dec 8;24(23). pii: s24237838. doi:
+      10.3390/s24237838.
+
+PMID- 37580348
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230816
+LR  - 20231123
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Aug 14
+TI  - Effects of nature on restorative and cognitive benefits in indoor
+      environment.
+PG  - 13199
+LID - 10.1038/s41598-023-40408-x [doi]
+AB  - This study investigates the effects of natural exposure in an indoor
+      environment on restorative quality and cognitive ability. Thirty
+      participants were shown nature at three different indoor sites: baseline,
+      indoor (some vegetation), and semi-indoor (a large amount of vegetation
+      and view to sky) for five minutes. After viewing, they completed an
+      assessment of restoration and a cognitive task, and their
+      electroencephalography (EEG) was recorded. Compared to the baseline, the
+      sites with nature resulted in restorative (higher perceived restoration
+      scores) and cognitive (higher working memory performance and lower delta-
+      to-theta ratio (DTR), delta-to-alpha ratio (DAR), theta-to-beta ratio
+      (TBR), and alpha-to-beta ratio (ABR) responses) benefits. These findings
+      further our understanding of the effects of exposure to nature on
+      restorative and cognitive benefits in an indoor environment, and help to
+      build guidance for future research on the effects of nature indoors and
+      designing restorative- and cognitive-enhancing indoor spaces.
+CI  - (c) 2023. Springer Nature Limited.
+FAU - Rhee, Jee Heon
+AU  - Rhee JH
+AD  - School of Architecture and Urban Planning, University of Wisconsin-
+      Milwaukee, Milwaukee, WI, USA.
+AD  - Institute of Engineering Research, Korea University, Seoul, Korea.
+FAU - Schermer, Brian
+AU  - Schermer B
+AD  - School of Architecture and Urban Planning, University of Wisconsin-
+      Milwaukee, Milwaukee, WI, USA.
+FAU - Han, Gisung
+AU  - Han G
+AD  - Institute of Engineering Research, Korea University, Seoul, Korea.
+FAU - Park, So Yeon
+AU  - Park SY
+AD  - Department of Urbanism, Faculty of Architecture and the Built
+      Environment, Delft University of Technology (TU Delft), Delft, The
+      Netherlands.
+FAU - Lee, Kyung Hoon
+AU  - Lee KH
+AD  - Department of Architecture, Korea University, Seoul, Korea.
+      kh92lee@korea.ac.kr.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230814
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Humans
+MH  - *Electroencephalography/methods
+MH  - *Memory, Short-Term
+MH  - Cognition
+MH  - Forecasting
+PMC - PMC10425438
+EDAT- 2023/08/15 00:42
+MHDA- 2023/08/16 06:42
+CRDT- 2023/08/14 23:18
+PHST- 2023/04/23 00:00 [received]
+PHST- 2023/08/09 00:00 [accepted]
+AID - 10.1038/s41598-023-40408-x [doi]
+AID - 10.1038/s41598-023-40408-x [pii]
+PST - epublish
+SO  - Sci Rep. 2023 Aug 14;13(1):13199. doi: 10.1038/s41598-023-40408-x.
+
+PMID- 35904389
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220802
+LR  - 20220830
+IS  - 1600-0668 (Electronic)
+IS  - 0905-6947 (Linking)
+VI  - 32
+IP  - 7
+DP  - 2022 Jul
+TI  - Effects of indoor VOCs from paint on human brain activities during
+      working memory tasks: An electroencephalogram study.
+PG  - e13062
+LID - 10.1111/ina.13062 [doi]
+AB  - As more and more people stay inside the building for a long time, the
+      indoor environment has a great effect on their health, mood, and work
+      efficiency. Electroencephalography (EEG) signals reflect electrical
+      activity originating from neuronal firing when a task or activity is
+      performed. Since there was no study on the effect of indoor air on
+      nerves, this study utilized EEG to preliminarily explore the brain
+      functions of subjects during working memory tasks with different
+      difficulties. The subjects were divided into two groups according to the
+      volatile organic compounds (VOCs) as odor irritants in the air. We
+      expected to find the difference in subjects' EEG signals between VOCs and
+      low-VOCs. The EEG signals from 60 electrodes were analyzed by event-
+      related potential (ERP), event-related spectral power (ERSP), and
+      correlation network methods to describe the brain activity. We compared
+      the results of subjects in VOCs and low-VOCs and found significant
+      differences between ERP and ERSP in the alpha band during a simple
+      working memory task. Subjects were more sensitive to the VOCs in simple
+      tasks than in complex tasks. Our work provided evidence of odor effects
+      on brain functions and could be used to guide the design of indoor odor
+      in home, offices, and classrooms.
+CI  - (c) 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Gao, Chenyang
+AU  - Gao C
+AD  - Institute of Biomedical Engineering, Chinese Academy of Medical Sciences
+      & Peking Union Medical College, Tianjin, China.
+FAU - Zhao, Xing
+AU  - Zhao X
+AD  - Institute of Biomedical Engineering, Chinese Academy of Medical Sciences
+      & Peking Union Medical College, Tianjin, China.
+FAU - Li, Ting
+AU  - Li T
+AD  - Institute of Biomedical Engineering, Chinese Academy of Medical Sciences
+      & Peking Union Medical College, Tianjin, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Indoor Air
+JT  - Indoor air
+JID - 9423515
+RN  - 0 (Air Pollutants)
+RN  - 0 (Volatile Organic Compounds)
+SB  - IM
+MH  - *Air Pollutants/analysis
+MH  - *Air Pollution, Indoor/analysis
+MH  - Brain
+MH  - Electroencephalography
+MH  - Environmental Monitoring/methods
+MH  - Humans
+MH  - Memory, Short-Term
+MH  - Paint
+MH  - *Volatile Organic Compounds/analysis
+OTO - NOTNLM
+OT  - electroencephalography
+OT  - indoor environment
+OT  - volatile organic compounds
+OT  - working memory
+EDAT- 2022/07/30 06:00
+MHDA- 2022/08/03 06:00
+CRDT- 2022/07/29 09:42
+PHST- 2022/05/06 00:00 [revised]
+PHST- 2022/01/13 00:00 [received]
+PHST- 2022/05/19 00:00 [accepted]
+AID - 10.1111/ina.13062 [doi]
+PST - ppublish
+SO  - Indoor Air. 2022 Jul;32(7):e13062. doi: 10.1111/ina.13062.
+
+PMID- 35742537
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220627
+LR  - 20220716
+IS  - 1660-4601 (Electronic)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 12
+DP  - 2022 Jun 14
+TI  - A Physiological-Signal-Based Thermal Sensation Model for Indoor
+      Environment Thermal Comfort Evaluation.
+LID - 7292 [pii]
+LID - 10.3390/ijerph19127292 [doi]
+AB  - Traditional heating, ventilation, and air conditioning (HVAC) control
+      systems rely mostly on static models, such as Fanger's predicted mean
+      vote (PMV) to predict human thermal comfort in indoor environments. Such
+      models consider environmental parameters, such as room temperature,
+      humidity, etc., and indirect human factors, such as metabolic rate,
+      clothing, etc., which do not necessarily reflect the actual human thermal
+      comfort. Therefore, as electronic sensor devices have become widely used,
+      we propose to develop a thermal sensation (TS) model that takes in
+      humans' physiological signals for consideration in addition to the
+      environment parameters. We conduct climate chamber experiments to collect
+      physiological signals and personal TS under different environments. The
+      collected physiological signals are ECG, EEG, EMG, GSR, and body
+      temperatures. As a preliminary study, we conducted experiments on young
+      subjects under static behaviors by controlling the room temperature, fan
+      speed, and humidity. The results show that our physiological-signal-based
+      TS model performs much better than the PMV model, with average RMSEs 0.75
+      vs. 1.07 (lower is better) and R(2) 0.77 vs. 0.43 (higher is better),
+      respectively, meaning that our model prediction has higher accuracy and
+      better explainability. The experiments also ranked the importance of
+      physiological signals (as EMG, body temperature, ECG, and EEG, in
+      descending order) so they can be selectively adopted according to the
+      feasibility of signal collection in different application scenarios. This
+      study demonstrates the usefulness of physiological signals in TS
+      prediction and motivates further thorough research on wider scenarios,
+      such as ages, health condition, static/motion/sports behaviors, etc.
+FAU - Pao, Shih-Lung
+AU  - Pao SL
+AUID- ORCID: 0000-0002-8551-2931
+AD  - Department of Computer Science and Engineering, National Sun Yat-sen
+      University, Kaohsiung 80424, Taiwan.
+FAU - Wu, Shin-Yu
+AU  - Wu SY
+AD  - Department of Computer Science and Engineering, National Sun Yat-sen
+      University, Kaohsiung 80424, Taiwan.
+FAU - Liang, Jing-Min
+AU  - Liang JM
+AD  - Department of Sports Medicine, Kaohsiung Medical University, Kaohsiung
+      80708, Taiwan.
+FAU - Huang, Ing-Jer
+AU  - Huang IJ
+AUID- ORCID: 0000-0003-0206-1010
+AD  - Department of Computer Science and Engineering, National Sun Yat-sen
+      University, Kaohsiung 80424, Taiwan.
+AD  - Digital Content and Multimedia Technology Research Center, National Sun
+      Yat-sen University, Kaohsiung 80424, Taiwan.
+FAU - Guo, Lan-Yuen
+AU  - Guo LY
+AUID- ORCID: 0000-0002-6256-355X
+AD  - Department of Sports Medicine, Kaohsiung Medical University, Kaohsiung
+      80708, Taiwan.
+AD  - Department of Medical Research, Kaohsiung Medical University Hospital,
+      Kaohsiung 80708, Taiwan.
+AD  - College of Humanities and Social Sciences, National Pingtung University
+      of Science and Technology, Pingtung 91201, Taiwan.
+FAU - Wu, Wen-Lan
+AU  - Wu WL
+AUID- ORCID: 0000-0003-2199-4553
+AD  - Department of Sports Medicine, Kaohsiung Medical University, Kaohsiung
+      80708, Taiwan.
+FAU - Liu, Yang-Guang
+AU  - Liu YG
+AD  - Green Energy & Environmental Laboratories, Industrial Technology Research
+      Institute, Hsinchu 31040, Taiwan.
+FAU - Nian, Shy-Her
+AU  - Nian SH
+AD  - Green Energy & Environmental Laboratories, Industrial Technology Research
+      Institute, Hsinchu 31040, Taiwan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220614
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - *Air Conditioning/methods
+MH  - Heating
+MH  - Humans
+MH  - Humidity
+MH  - Temperature
+MH  - *Thermosensing/physiology
+MH  - Ventilation
+PMC - PMC9223375
+OTO - NOTNLM
+OT  - ECG
+OT  - EEG
+OT  - EMG
+OT  - GSR
+OT  - PMV (predicted mean vote)
+OT  - body temperature
+OT  - personalized thermal comfort strategy
+OT  - sensation modeling
+OT  - thermal comfort
+OT  - thermal sensation
+EDAT- 2022/06/25 06:00
+MHDA- 2022/06/28 06:00
+CRDT- 2022/06/24 01:18
+PHST- 2022/04/11 00:00 [received]
+PHST- 2022/05/30 00:00 [revised]
+PHST- 2022/06/10 00:00 [accepted]
+AID - ijerph19127292 [pii]
+AID - 10.3390/ijerph19127292 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Jun 14;19(12). pii: ijerph19127292.
+      doi: 10.3390/ijerph19127292.
+
+PMID- 35682449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220613
+LR  - 20220716
+IS  - 1660-4601 (Electronic)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 11
+DP  - 2022 Jun 3
+TI  - A Study of the Effects of Different Indoor Lighting Environments on
+      Computer Work Fatigue.
+LID - 6866 [pii]
+LID - 10.3390/ijerph19116866 [doi]
+AB  - The indoor lighting environment is a key factor affecting human health
+      and safety. In particular, people have been forced to study or work more
+      for long periods of time at home due to the COVID-19 pandemic. In this
+      study, we investigate the influence of physical indoor environmental
+      factors, correlated color temperature (CCT), and illumination on computer
+      work fatigue. We conducted a within-subject experiment consisting of a 10
+      min-long task test under two different illumination settings (300 lx and
+      500 lx) and two CCTs (3000 K and 4000 K). Physiological signals, such as
+      electroencephalogram (EEG), electrocardiograph (ECG), and eye movement,
+      were monitored during the test to objectively measure fatigue. The
+      subjective fatigue of eight participants was evaluated based on a
+      questionnaire conducted after completing the test. The error rate of the
+      task test was taken as the key factor representing the working
+      performance. Through the analysis of the subjective and objective
+      results, computer work fatigue was found to be significantly impacted by
+      changes in the lighting environment, where human fatigue was negatively
+      correlated with illumination and CCT. Improving the illumination and CCT
+      of the work environment, within the scope of this study, helped to
+      decrease the fatigue degree-that is, the fatigue degree was the lowest
+      under the 4000 K + 500 lx environment, while it was relatively high at
+      3000 K + 300 lx. Under indoor environment conditions, the CCT factor was
+      found to have the greatest effect on computer work fatigue, followed by
+      illumination. The presented results are expected to be a valuable
+      reference for improving the satisfaction associated with the lighting
+      environment and to serve as guidance for researchers and reviewers
+      conducting similar research.
+FAU - Fang, Yuan
+AU  - Fang Y
+AUID- ORCID: 0000-0003-3502-0792
+AD  - School of Engineering Practice and Innovation-Entrepreneurship Education,
+      Dalian Polytechnic University, Dalian 116034, China.
+FAU - Liu, Chang
+AU  - Liu C
+AD  - School of Information Science and Engineering, Dalian Polytechnic
+      University, Dalian 116034, China.
+FAU - Zhao, Chengcheng
+AU  - Zhao C
+AD  - School of Information Science and Engineering, Dalian Polytechnic
+      University, Dalian 116034, China.
+FAU - Zhang, Hongyu
+AU  - Zhang H
+AD  - School of Information Science and Engineering, Dalian Polytechnic
+      University, Dalian 116034, China.
+FAU - Wang, Weizhen
+AU  - Wang W
+AUID- ORCID: 0000-0002-0081-9660
+AD  - Human Factors and Intelligent Design Research Center, Dalian Polytechnic
+      University, Dalian 116034, China.
+FAU - Zou, Nianyu
+AU  - Zou N
+AD  - School of Information Science and Engineering, Dalian Polytechnic
+      University, Dalian 116034, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220603
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Computers
+MH  - Fatigue
+MH  - Humans
+MH  - *Lighting
+MH  - Pandemics
+PMC - PMC9180354
+OTO - NOTNLM
+OT  - ECG
+OT  - EEG
+OT  - HRV
+OT  - fatigue
+OT  - indoor lighting environment
+EDAT- 2022/06/11 06:00
+MHDA- 2022/06/14 06:00
+CRDT- 2022/06/10 01:13
+PHST- 2022/04/29 00:00 [received]
+PHST- 2022/05/30 00:00 [revised]
+PHST- 2022/05/30 00:00 [accepted]
+AID - ijerph19116866 [pii]
+AID - 10.3390/ijerph19116866 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Jun 3;19(11). pii: ijerph19116866.
+      doi: 10.3390/ijerph19116866.
+
+PMID- 35145166
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220307
+LR  - 20220307
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2022 Feb 10
+TI  - Towards real-world neuroscience using mobile EEG and augmented reality.
+PG  - 2291
+LID - 10.1038/s41598-022-06296-3 [doi]
+AB  - Our visual environment impacts multiple aspects of cognition including
+      perception, attention and memory, yet most studies traditionally remove
+      or control the external environment. As a result, we have a limited
+      understanding of neurocognitive processes beyond the controlled lab
+      environment. Here, we aim to study neural processes in real-world
+      environments, while also maintaining a degree of control over perception.
+      To achieve this, we combined mobile EEG (mEEG) and augmented reality
+      (AR), which allows us to place virtual objects into the real world. We
+      validated this AR and mEEG approach using a well-characterised cognitive
+      response-the face inversion effect. Participants viewed upright and
+      inverted faces in three EEG tasks (1) a lab-based computer task, (2)
+      walking through an indoor environment while seeing face photographs, and
+      (3) walking through an indoor environment while seeing virtual faces. We
+      find greater low frequency EEG activity for inverted compared to upright
+      faces in all experimental tasks, demonstrating that cognitively relevant
+      signals can be extracted from mEEG and AR paradigms. This was established
+      in both an epoch-based analysis aligned to face events, and a GLM-based
+      approach that incorporates continuous EEG signals and face perception
+      states. Together, this research helps pave the way to exploring
+      neurocognitive processes in real-world environments while maintaining
+      experimental control using AR.
+CI  - (c) 2022. The Author(s).
+FAU - Krugliak, Alexandra
+AU  - Krugliak A
+AD  - Department of Psychology, University of Cambridge, Cambridge, UK.
+FAU - Clarke, Alex
+AU  - Clarke A
+AD  - Department of Psychology, University of Cambridge, Cambridge, UK.
+      ac584@cam.ac.uk.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 211200/Z/18/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220210
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Adult
+MH  - *Augmented Reality
+MH  - Cognition/*physiology
+MH  - Electroencephalography/*methods
+MH  - *Environment
+MH  - Facial Recognition/*physiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Neurosciences/*methods/*trends
+MH  - Walking/physiology
+MH  - Young Adult
+PMC - PMC8831466
+EDAT- 2022/02/12 06:00
+MHDA- 2022/03/08 06:00
+CRDT- 2022/02/11 05:35
+PHST- 2021/10/21 00:00 [received]
+PHST- 2022/01/25 00:00 [accepted]
+AID - 10.1038/s41598-022-06296-3 [doi]
+AID - 10.1038/s41598-022-06296-3 [pii]
+PST - epublish
+SO  - Sci Rep. 2022 Feb 10;12(1):2291. doi: 10.1038/s41598-022-06296-3.
+
+PMID- 34609020
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220318
+LR  - 20220318
+IS  - 1600-0668 (Electronic)
+IS  - 0905-6947 (Linking)
+VI  - 32
+IP  - 1
+DP  - 2022 Jan
+TI  - Investigating the relation between electroencephalogram, thermal comfort,
+      and cognitive performance in neutral to hot indoor environment.
+PG  - e12941
+LID - 10.1111/ina.12941 [doi]
+AB  - The relation between electroencephalogram signals, thermal comfort, and
+      cognitive performance in neutral to hot indoor environment was
+      investigated. The experiments were carried out at four temperatures: 26
+      masculineC, 30 masculineC, 33 masculineC, and 37 masculineC, and two
+      relative humidity levels: 50% and 70%. Thirty-two subjects were exposed
+      for 175 min. The electroencephalogram signals were measured for 30 min 25
+      min after the onset of exposure while the recruited subjects performed
+      neurobehavioral tests and rated their thermal comfort. The relative power
+      of electroencephalogram signals has a significant correlation with
+      thermal comfort and performance of neurobehavioral tests. The ratings of
+      acceptability of thermal environment and thermal comfort, the speed,
+      accuracy, and PI of completing the tests are negatively correlated with
+      the relative power of delta-band, but positively correlated with theta-
+      band, alpha-band, and beta-band. The ratings of thermal sensation have a
+      better correlation with the above four bands, but the correlation trend
+      is opposite. A linear relation was found between electroencephalogram
+      signals and the speed. The results showed that the relative power of P7
+      channel located in the occipital lobe is the most suitable as a single
+      electroencephalogram channel to reflect joint thermal comfort and
+      cognitive performance at high temperatures, especially its alpha-band.
+CI  - (c) 2021 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Lang, Xiaoyue
+AU  - Lang X
+AUID- ORCID: 0000-0002-8914-2237
+AD  - Central South University, Changsha, China.
+FAU - Wargocki, Pawel
+AU  - Wargocki P
+AUID- ORCID: 0000-0003-3865-3560
+AD  - Technical University of Denmark, Kongens Lyngby, Denmark.
+FAU - Liu, Weiwei
+AU  - Liu W
+AUID- ORCID: 0000-0003-4314-0292
+AD  - Central South University, Changsha, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211005
+PL  - England
+TA  - Indoor Air
+JT  - Indoor air
+JID - 9423515
+SB  - IM
+MH  - *Air Pollution, Indoor
+MH  - Cognition
+MH  - Electroencephalography
+MH  - Humans
+MH  - Humidity
+MH  - Temperature
+MH  - Thermosensing
+OTO - NOTNLM
+OT  - acceptability of thermal environment
+OT  - cognitive performance
+OT  - electroencephalogram
+OT  - occipital lobe
+OT  - thermal comfort
+OT  - thermal sensation
+EDAT- 2021/10/06 06:00
+MHDA- 2022/03/19 06:00
+CRDT- 2021/10/05 08:52
+PHST- 2021/08/23 00:00 [revised]
+PHST- 2021/06/18 00:00 [received]
+PHST- 2021/09/24 00:00 [accepted]
+AID - 10.1111/ina.12941 [doi]
+PST - ppublish
+SO  - Indoor Air. 2022 Jan;32(1):e12941. doi: 10.1111/ina.12941. Epub 2021 Oct
+      5.
+
+PMID- 34085318
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211108
+LR  - 20211108
+IS  - 1600-0668 (Electronic)
+IS  - 0905-6947 (Linking)
+VI  - 31
+IP  - 6
+DP  - 2021 Nov
+TI  - Pilot study of the effects of ventilation and ventilation noise on sleep
+      quality in the young and elderly.
+PG  - 2226-2238
+LID - 10.1111/ina.12861 [doi]
+AB  - Three conditions were established to investigate the effects of
+      ventilation and related ventilation noise on sleep quality: No mechanical
+      ventilation/low noise (A); Mechanical ventilation /low noise (B);
+      Mechanical ventilation/high noise (C). The interventions were achieved by
+      idling a mechanical ventilation system or operating it in two different
+      modes. Nine young people and nine older people were all exposed to each
+      of the three conditions for a whole night's sleep, but data from only 15
+      subjects were analyzed as three young subjects apparently slept with open
+      windows in condition A. Sleep quality was measured objectively with
+      polysomnography (PSG), which monitored signals of electroencephalogram
+      (EEG), bilateral electrooculogram (EOG), and chin electromyogram (EMG)
+      continuously during the sleeping period. Saliva samples were collected
+      before sleep at night and after waking in the morning, and the
+      concentrations of cortisol and lysozyme in them were determined. Without
+      mechanical ventilation, the indoor CO2 level averaged about 1400 ppm
+      during the night. Operating the mechanical ventilation decreased the
+      indoor CO2 to below 1000 ppm, which improved objectively measured sleep
+      quality: wake time after sleep onset (WASO) decreased on average by 15
+      min (p < 0.05) and sleep efficiency (SE) increased on average by about 4%
+      (p < 0.05). Increased ventilation noise level (50.8dB(A) vs. 34.7dB(A);
+      54.9dB(C) vs. 48dB(C)) did not significantly change SE or WASO but did
+      change the duration of sleep stages: It decreased the duration of deep
+      sleep by 11min (p < 0.05) and REM sleep by 17 min (p < 0.01) and
+      increased the duration of light sleep by 17 min (p < 0.05). The
+      ventilation noise significantly increased the concentration of lysozyme
+      in the elderly (p < 0.05) although no significant effects on cortisol
+      could be shown. These results confirm that a low ventilation rate has
+      negative effects on sleep quality and that ventilation noise at or above
+      50dB(A) may disrupt sleep.
+CI  - (c) 2021 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Lan, Li
+AU  - Lan L
+AUID- ORCID: 0000-0003-3431-9266
+AD  - Department of Architecture, School of Design, Shanghai Jiao Tong
+      University, Shanghai, China.
+FAU - Sun, Yuxiang
+AU  - Sun Y
+AD  - Department of Architecture, School of Design, Shanghai Jiao Tong
+      University, Shanghai, China.
+FAU - Wyon, David P
+AU  - Wyon DP
+AUID- ORCID: 0000-0002-3329-3343
+AD  - Department of Civil Engineering, International Centre for Indoor
+      Environment and Energy, Technical University of Denmark (DTU), Lyngby,
+      Denmark.
+FAU - Wargocki, Pawel
+AU  - Wargocki P
+AUID- ORCID: 0000-0003-3865-3560
+AD  - Department of Civil Engineering, International Centre for Indoor
+      Environment and Energy, Technical University of Denmark (DTU), Lyngby,
+      Denmark.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210603
+PL  - England
+TA  - Indoor Air
+JT  - Indoor air
+JID - 9423515
+SB  - IM
+MH  - Adolescent
+MH  - Aged
+MH  - *Air Pollution, Indoor
+MH  - Humans
+MH  - Pilot Projects
+MH  - Polysomnography
+MH  - Saliva
+MH  - Sleep
+OTO - NOTNLM
+OT  - elderly
+OT  - health
+OT  - sleep quality
+OT  - ventilation
+OT  - ventilation noise
+EDAT- 2021/06/05 06:00
+MHDA- 2021/11/09 06:00
+CRDT- 2021/06/04 07:24
+PHST- 2021/05/01 00:00 [revised]
+PHST- 2021/03/25 00:00 [received]
+PHST- 2021/05/10 00:00 [accepted]
+AID - 10.1111/ina.12861 [doi]
+PST - ppublish
+SO  - Indoor Air. 2021 Nov;31(6):2226-2238. doi: 10.1111/ina.12861. Epub 2021
+      Jun 3.
+
+PMID- 33671722
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240331
+IS  - 2076-3425 (Print)
+IS  - 2076-3425 (Linking)
+VI  - 11
+IP  - 2
+DP  - 2021 Feb 22
+TI  - A Muscular and Cerebral Physiological Indices Assessment for Stress
+      Measuring during Virtual Wheelchair Guidance.
+LID - 274 [pii]
+LID - 10.3390/brainsci11020274 [doi]
+AB  - The work presented in this manuscript has the purpose to assess the
+      relationship between human factors and physiological indices. We discuss
+      the relationship between stress as human factor and cerebral and muscular
+      signals as features. Ten male paraplegic, right-handed subjects were
+      volunteers for the experiment (mean age 34 +/-6). They drove a virtual
+      wheelchair in an indoor environment. They filled five missions where, in
+      each one, an environmental parameter was changed. Meanwhile, they were
+      equipped with Electromyography (EMG) sensors and Electroencephalography
+      (EEG). Frequency and temporal features were filtered and extracted.
+      Principal component analysis (PCA), Fisher's tests, repeated measure
+      Anova and post hoc Tukey test (alpha = 0.05) were implemented for
+      statistics. Environmental modifications are subject to induce stress,
+      which impacts muscular and cerebral activities. While the time pressure
+      parameter was the most influent, the transition from static to moving
+      obstacles (avatars), tends to have a significant impact on stress levels.
+      However, adding more moving obstacles did not show any impact. A
+      synchronization factor was noticed between cerebral and muscular features
+      in higher stress levels. Further examination is needed to assess EEG
+      reliability in these situations.
+FAU - Ben Khelifa, Mohamed Moncef
+AU  - Ben Khelifa MM
+AD  - Impact de l'Activite Physique sur la Sante (IAPS) Laboratory, South
+      University, 83130 Toulon-Var, France.
+FAU - Lamti, Hachem A
+AU  - Lamti HA
+AUID- ORCID: 0000-0002-5965-0046
+AD  - Conception de Systemes Mecaniques et Robotiques (COSMER) Laboratory,
+      South University, 83130 Toulon-Var, France.
+FAU - Hugel, Vincent
+AU  - Hugel V
+AD  - Conception de Systemes Mecaniques et Robotiques (COSMER) Laboratory,
+      South University, 83130 Toulon-Var, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20210222
+PL  - Switzerland
+TA  - Brain Sci
+JT  - Brain sciences
+JID - 101598646
+PMC - PMC7926415
+OTO - NOTNLM
+OT  - BCI
+OT  - EEG
+OT  - EMG
+OT  - stress
+OT  - virtual reality
+OT  - wheelchair
+EDAT- 2021/03/07 06:00
+MHDA- 2021/03/07 06:01
+CRDT- 2021/03/06 01:11
+PHST- 2021/01/02 00:00 [received]
+PHST- 2021/02/10 00:00 [revised]
+PHST- 2021/02/14 00:00 [accepted]
+AID - brainsci11020274 [pii]
+AID - 10.3390/brainsci11020274 [doi]
+PST - epublish
+SO  - Brain Sci. 2021 Feb 22;11(2). pii: brainsci11020274. doi:
+      10.3390/brainsci11020274.
+
